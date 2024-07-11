@@ -1,0 +1,59 @@
+#h1-txt{
+    display:flex;
+    justify-content: center ;
+    align-items: center;
+    color:black;
+}
+#h2-inc{
+    display:flex;
+    justify-content: center ;
+    align-items: center;
+    color:black;
+    height: 100px;
+    font-weight: bold;
+}
+*{
+
+    background-color: blanchedalmond;
+}
+
+#btn-inc{
+    position:absolute;
+    display:block;
+    font-weight: bold;
+    color:white;
+    left:35%;
+    height: 60px;  
+    width: 150px;
+    margin-left:135px;
+    background-color: brown; 
+    font-size: 20px;;
+     font-family:'Courier New', Courier, monospace;
+     border-radius: 10px;
+     border-color: black;
+}
+
+#btn-save{
+    top: 100px;
+    font-weight: bold;
+    color:white;
+    margin-top:100px;
+    margin-left:605px;
+    height: 60px;  
+    width: 150px;
+    background-color: brown;
+    font-size: 20px;;
+     font-family:'Courier New', Courier, monospace;
+     border-radius: 10px;
+     border-color: black;
+
+}
+
+#p-res{
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-size: 20px;
+}
