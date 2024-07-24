@@ -13,7 +13,7 @@
 // function func1(){
 //     var a = 20;
 //     //console.log(a);
-// }
+// } 
 
 // function func2(){
 //     var res="";
