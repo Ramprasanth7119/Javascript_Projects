@@ -4,6 +4,7 @@ let len  = count.length;
 
 
 let hasBlack = false
+
 let isAlive = true
 let message = "";
 let pWant = document.getElementById("p-want")
