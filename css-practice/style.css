@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: rgb(255, 244, 225);
+}
+
+.title{
+    margin-right: 500px;
+    padding-top: 30px;  
+    
+    
+}
+.header{
+    padding: 20px; 
+    display:flex;
+    justify-content: flex-end;
+    
+}
+
+.items{
+    background-color: rgba(235, 223, 202, 0.562);
+    font-size: 15px;
+    
+    margin: 20px;
+    width: 100px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(236, 198, 198);
+    border-radius: 6px;
+}
+
+.bootcamp{
+    background-color: red;
+    color:white;
+    font-size: 40px;
+    height: 60px;
+    width: 200px;
+    margin-left : 570px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.short{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.para{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+   
+}
+
+.props{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 300px; 
+}
+
+.lists{
+    padding: 10px;
+        margin: 10px;
+       
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    border: 1px solid rgb(230, 179, 85);
+}
